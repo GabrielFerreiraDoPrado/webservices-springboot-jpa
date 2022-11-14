@@ -38,11 +38,11 @@ Web Services é um projeto de estudo backend construído durante o Curso de Java
 • JPA / Hibernate
 
 
-![Ferramentas](https://github.com/GabrielFerreiraDoPrado/assets/blob/main/tools.png)
+![Ferramentas](https://github.com/GabrielFerreiraDoPrado/assets/blob/main/webservices-springboot-jpa/tools.png)
 
 # Modelo de Domínio
 
-![ModeloDominio](https://github.com/GabrielFerreiraDoPrado/assets/blob/main/domainmodel.png)
+![ModeloDominio](https://github.com/GabrielFerreiraDoPrado/assets/blob/main/webservices-springboot-jpa/domainmodel.png)
 
 # Autor
 
