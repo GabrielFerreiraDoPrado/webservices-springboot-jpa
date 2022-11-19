@@ -46,4 +46,4 @@ Web Services é um projeto de estudo backend construído durante o Curso de Java
 
 # Autor
 
-[Meu Perfil](https://www.linkedin.com/in/gabriel-ferreira-do-prado-25863919a/) no LinkedIn
+[Meu Perfil](https://www.linkedin.com/in/gabriel-ferreira-do-prado/) no LinkedIn
